@@ -1,4 +1,4 @@
-package Package.scoping;
+package Package.functions_methods.scoping;
 
 public class Scope {
     // scope = where we can access our variable
